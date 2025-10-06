@@ -1,0 +1,39 @@
+[2025-10-01 13:18:07] USER - Add Product ID F001:  -> OK
+[2025-10-01 13:25:19] USER - Add Promotion ID 0:  -> OK
+[2025-10-01 13:38:16] USER - Delete Product ID F001:  -> OK
+[2025-10-01 13:38:16] SYSTEM - Delete all prices of deleted product ID F001:  -> OK
+[2025-10-01 13:39:02] USER - Add Product ID F001:  -> OK
+[2025-10-01 13:40:58] USER - Add Product ID P001:  -> OK
+[2025-10-01 13:41:17] USER - Add Promotion ID 10:  -> OK
+[2025-10-01 13:42:47] USER - Add Price for Product ID F001, size S:  -> OK
+[2025-10-01 13:43:35] USER - Add Price for Product ID F001, size M:  -> OK
+[2025-10-01 13:44:09] USER - Add Price for Product ID F001, size XL:  -> OK
+[2025-10-01 13:46:33] USER - Update Price Product ID F001 Size M:  -> OK
+[2025-10-01 13:47:34] USER - Add Price for Product ID P001, size S:  -> OK
+[2025-10-01 13:48:03] USER - Add Price for Product ID P001, size M:  -> OK
+[2025-10-01 13:48:31] USER - Add Price for Product ID P001, size XL:  -> OK
+[2025-10-01 13:48:50] USER - Generate Report:  -> OK
+[2025-10-01 13:55:08] USER - Generate Report:  -> OK
+[2025-10-01 13:55:30] USER - Generate Report:  -> OK
+[2025-10-01 14:04:24] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:07:29] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:07:35] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:10:22] USER - Update Price Product ID P001 Size M:  -> OK
+[2025-10-01 14:10:55] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:12:30] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:13:25] USER - Update Price Product ID F001 Size M:  -> OK
+[2025-10-01 14:13:55] USER - Update Price Product ID P001 Size M:  -> OK
+[2025-10-01 14:14:13] USER - Update Price Product ID P001 Size M:  -> OK
+[2025-10-01 14:14:53] USER - Update Price Product ID P001 Size M:  -> OK
+[2025-10-01 14:15:02] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:17:11] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:19:00] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:20:49] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:21:17] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:21:46] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:22:02] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:28:57] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:29:25] SYSTEM - Generate Report:  -> OK
+[2025-10-01 15:19:59] SYSTEM - Generate Report:  -> OK
+[2025-10-01 15:20:27] SYSTEM - Generate Report:  -> OK
+[2025-10-01 15:21:03] SYSTEM - Generate Report:  -> OK

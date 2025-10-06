@@ -1,0 +1,28 @@
+Burger Shop Report
+Generated: 2025-10-01 15:21:03
+
+Total Products: 2
+Total Price Records: 6
+
++------------+---------------------------+-------------+-------------------+---------+-------+------------+
+| Product ID | Product Name              | Size        | Promotion Name    | Price   | Stock | Status     |
++------------+---------------------------+-------------+-------------------+---------+-------+------------+
+| F001       | fish burger               | S           | -                 | 50.00   | 10    | Ready      |
+| F001       | fish burger               | M           | -                 | 90.00   | 10    | Ready      |
+| F001       | fish burger               | XL          | -                 | 150.00  | 5     | Ready      |
+| P001       | pork burger               | S           | ลด10%             | 49.00   | 20    | Ready      |
+| P001       | pork burger               | M           | ลด10%             | 69.00   | 10    | Not Ready  |
+| P001       | pork burger               | XL          | ลด10%             | 99.00   | 2     | Ready      |
++------------+---------------------------+-------------+-------------------+---------+-------+------------+
+
+Last 10 Log Events:
+[2025-10-01 14:17:11] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:19:00] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:20:49] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:21:17] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:21:46] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:22:02] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:28:57] SYSTEM - Generate Report:  -> OK
+[2025-10-01 14:29:25] SYSTEM - Generate Report:  -> OK
+[2025-10-01 15:19:59] SYSTEM - Generate Report:  -> OK
+[2025-10-01 15:20:27] SYSTEM - Generate Report:  -> OK
